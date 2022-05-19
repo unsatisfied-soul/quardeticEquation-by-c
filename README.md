@@ -1,0 +1,1 @@
+"# quardeticEquation-by-c" 
