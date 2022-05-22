@@ -10,4 +10,5 @@ int main(){
     scanf("%d", &x2);
     double value = pow(x1, x2);
     printf("result is %.2lf", value);
+    return 0;
 }
